@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rnvsflutter/static/css/main.5f361e03.chunk.css",
+    "main.js": "/rnvsflutter/static/js/main.240037e1.chunk.js",
+    "main.js.map": "/rnvsflutter/static/js/main.240037e1.chunk.js.map",
+    "runtime-main.js": "/rnvsflutter/static/js/runtime-main.5b6e7d18.js",
+    "runtime-main.js.map": "/rnvsflutter/static/js/runtime-main.5b6e7d18.js.map",
+    "static/js/2.39edc8cd.chunk.js": "/rnvsflutter/static/js/2.39edc8cd.chunk.js",
+    "static/js/2.39edc8cd.chunk.js.map": "/rnvsflutter/static/js/2.39edc8cd.chunk.js.map",
+    "index.html": "/rnvsflutter/index.html",
+    "precache-manifest.22c2a13d6d0a964aa3e813fd0e613597.js": "/rnvsflutter/precache-manifest.22c2a13d6d0a964aa3e813fd0e613597.js",
+    "service-worker.js": "/rnvsflutter/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/rnvsflutter/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.39edc8cd.chunk.js.LICENSE.txt": "/rnvsflutter/static/js/2.39edc8cd.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/rnvsflutter/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b6e7d18.js",
+    "static/js/2.39edc8cd.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.240037e1.chunk.js"
+  ]
+}
